@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+This project is a single page project created with using React as it is my strength among the frontend libraries/frameworks
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I also used Bootstrap in stlying the project. Bootstrap is a CSS framework which makes frondend styling easier and faster.
+
 
 ## Available Scripts
 
@@ -9,7 +10,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3006](http://localhost:3006) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
