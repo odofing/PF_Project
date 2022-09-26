@@ -1,3 +1,6 @@
+About the Project and how to run the project
+
+
 This project is a single page project created with using React as it is my strength among the frontend libraries/frameworks
 
 I also used Bootstrap in stlying the project. Bootstrap is a CSS framework which makes frondend styling easier and faster.
